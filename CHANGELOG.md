@@ -1,3 +1,11 @@
+## v0.2.1 (2026-11-18)
+
+### Other
+
+- update repository url [skip ci] ([87959b6](https://github.com/ryangarber/better-auth-prisma-orm/commit/87959b658e2156a855fcc3e4481060b9e63d1996))
+- **deps:** bump better-auth, zod ([39b4bc8](https://github.com/ryangarber/better-auth-prisma-orm/commit/39b4bc8f753693a9a4b3a05f261d564124234f81))
+- **deps:** update Prisma packages ([4415812](https://github.com/ryangarber/better-auth-prisma-orm/commit/4415812c9a1e16b57f104549560bab55b2aaa901))
+
 ## v0.2.0 (2026-11-07)
 
 ### Breaking Changes
