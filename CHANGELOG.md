@@ -1,3 +1,9 @@
+## v0.2.2 (2026-11-23)
+
+### Other
+
+- **deps:** upgrade prisma to v8.0.0-rc.25 ([45d580b](https://github.com/ryangarber/better-auth-prisma-orm/commit/45d580bc20463a032ae6c37ddf59a31e7435d907))
+
 ## v0.2.1 (2026-11-18)
 
 ### Other
